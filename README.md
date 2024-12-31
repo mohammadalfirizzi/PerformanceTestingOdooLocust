@@ -5,4 +5,5 @@ Hello! This is how to write code Locust implement Odoo for Performance Testing
 3. Sale Subscription
 4. Sale Order
 5. Project Project
-6. Account Move
+6. Account Move (Invoices)
+7. Purhase Order 
